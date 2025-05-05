@@ -13,7 +13,6 @@
 - ⚙️ I build modern applications using **Nuxt.js** on the frontend
 - 🔌 I love working with **REST APIs**, both consuming and creating them
 - 🕵️‍♂️ I'm also passionate about **Cybersecurity**, especially **Red Team operations**
-- 🌐 Check out my personal site at [mhfuj.com](https://mhfuj.com)
 
 ---
 
@@ -37,10 +36,5 @@
 
 ---
 
-### 📫 Contact
-
-- 🌐 Website: [mhfuj.com](https://mhfuj.com)
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
