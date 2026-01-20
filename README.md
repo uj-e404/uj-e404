@@ -1,5 +1,3 @@
-# Uj
-
 **Full-Stack Developer** · **Healthcare IT** · **Automation Enthusiast**
 
 ---
